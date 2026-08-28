@@ -20,7 +20,7 @@ export interface Extracurricular {
   organization: string;
   date: string;
   description: string;
-  category: 'Hackathon' | 'Open Source' | 'Leadership' | 'Community';
+  category: 'Open Source' | 'Leadership' | 'Community';
   link?: string;
 }
 

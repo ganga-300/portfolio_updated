@@ -163,14 +163,5 @@ export const extracurricularsData: Extracurricular[] = [
     description: "Solving 400+ algorithmic challenges spanning dynamic programming, graphs, trees, arrays, and string manipulation.",
     category: "Community",
     link: "https://leetcode.com/u/ganga-300/"
-  },
-  {
-    id: "hackathon-ai",
-    title: "AI & Full-Stack Projects",
-    role: "Generative AI Developer",
-    organization: "End-to-End Buildathon",
-    date: "2024",
-    description: "Designed and delivered LLM-powered RAG and analytics applications under tight deadlines.",
-    category: "Hackathon"
   }
 ];

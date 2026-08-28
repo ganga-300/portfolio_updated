@@ -1,15 +1,13 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { extracurricularsData } from '../data/portfolioData';
-import { ArrowUpRight, Award, GitPullRequest, Users, Trophy } from 'lucide-react';
+import { ArrowUpRight, Award, GitPullRequest, Users } from 'lucide-react';
 
 export const BeyondRepo: React.FC = () => {
   const getCategoryIcon = (cat: string) => {
     switch (cat) {
       case 'Open Source':
         return <GitPullRequest className="w-4 h-4 text-editorial-green" />;
-      case 'Hackathon':
-        return <Trophy className="w-4 h-4 text-editorial-green" />;
       case 'Leadership':
         return <Award className="w-4 h-4 text-editorial-green" />;
       case 'Community':
