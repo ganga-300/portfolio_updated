@@ -49,7 +49,7 @@ export const socialLinks: SocialLinks = {
   linkedin: "https://linkedin.com/in/ganga-raghuwanshi",
   leetcode: "https://leetcode.com/u/ganga-300/",
   email: "mailto:raghuwanshiganga08@gmail.com",
-  resume: "/resume.pdf"
+  resume: "https://drive.google.com/file/d/19XSw1SbHxUzsyfvmwF_4uuEklb1z3bCG/view?usp=drive_link"
 };
 
 export const projectsData: Project[] = [
