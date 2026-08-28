@@ -46,7 +46,7 @@ export const leetcodeConfig: LeetCodeConfig = {
 
 export const socialLinks: SocialLinks = {
   github: "https://github.com/ganga-300",
-  linkedin: "https://linkedin.com/in/ganga-raghuwanshi",
+  linkedin: "https://www.linkedin.com/in/ganga-raghuwanshi-910a40323",
   leetcode: "https://leetcode.com/u/ganga-300/",
   email: "mailto:raghuwanshiganga08@gmail.com",
   resume: "https://drive.google.com/file/d/19XSw1SbHxUzsyfvmwF_4uuEklb1z3bCG/view?usp=drive_link"
